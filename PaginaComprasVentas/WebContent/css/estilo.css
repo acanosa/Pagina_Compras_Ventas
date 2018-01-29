@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+/*Le agrega un pequenio espacio al label..*/
+.labelSelect{
+	padding-right: 2%;
+    padding-top: 1%;
+}
+
+.labelMargen{
+	padding-left: 5%;
+}
+
+.selectRegistro{
+	padding-right: 0.5%;
+}
